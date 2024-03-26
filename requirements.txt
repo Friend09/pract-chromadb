@@ -1,0 +1,12 @@
+ipykernel
+openai
+python-dotenv
+langchain
+langchain_community
+langchain-openai
+langchainhub
+chromadb
+tiktoken
+bs4
+kor
+markdownify
